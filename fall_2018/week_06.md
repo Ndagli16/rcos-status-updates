@@ -5,7 +5,7 @@ Made some progress on implementing on_put and on_delete routes. Also began movin
 Finish up the routes portion of the generator and hopefully get a shippable product by our presentation on friday.
 
 ## Anything Blocking?
-Getting familiar with the javascript and the falcon framwork. Also getting familair with the project setup as well.
+Getting familiar with javascript templeting and the falcon framwork.
 
 ## Notes
 
